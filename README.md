@@ -37,4 +37,5 @@ https://ebitaku.sakura.ne.jp/izakayasagashi/izakayasakashi/php/izakayasagashi/iz
   - 1.DataTablesリファレンス [https://datatables.net/]
   - 2. DataTablesの使い方[https://qiita.com/twrcd1227/items/d3f8db42235d70d24bf7]
   - 3. thead,tbodyについて[https://html-coding.co.jp/annex/dictionary/html/thead/]
+    4. Chartjs使用時のReferenceError: Chart is not defined が出たときの対処法[https://harutoblog.com/1733]
 # forms
