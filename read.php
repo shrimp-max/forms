@@ -126,6 +126,10 @@ $file = fopen('data/data.txt', 'r');// ファイルを開く
     //     }
     // });
 </script>
+<ul>
+<li><a href="post.php">もう一度回答する</a></li>
+<li><a href="read.php">回答一覧</a></li>
+</ul>
 </body>
 </html>
 
