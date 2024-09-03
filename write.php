@@ -95,7 +95,7 @@ fclose($file);
 			<label class="answer">
 				あなたの回答：<?php echo $year; ?>
 			</label>
-            <label>
+            <label class="answer">
                 <?php echo $q1; ?>
             </label>
 	</div>
@@ -107,7 +107,7 @@ fclose($file);
 			<label class="answer">
 				あなたの回答：<?php echo $point; ?>
 			</label>
-            <label>
+            <label class="answer">
                 <?php echo $q2; ?>
             </label>    
 	</div>
@@ -119,7 +119,7 @@ fclose($file);
 			<label class="answer">
 				あなたの回答：<?php echo $golf; ?>
 			</label>
-            <label>
+            <label class="answer">
                 <?php echo $q3; ?>
             </label>  
 	</div>
@@ -131,7 +131,7 @@ fclose($file);
 			<label class="answer">
 				あなたの回答：<?php echo $phone; ?>
 			</label>
-            <label>
+            <label class="answer">
                 <?php echo $q4; ?>
             </label>  
 	</div>
@@ -143,7 +143,7 @@ fclose($file);
 			<label class="answer">
 				あなたの回答：<?php echo $brand; ?>
 			</label>
-            <label>
+            <label class="answer">
                 <?php echo $q5; ?>
             </label>  
 	</div>
