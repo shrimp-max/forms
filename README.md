@@ -8,7 +8,7 @@
 
 ## ③DEMO
 
-https://ebitaku.sakura.ne.jp/php01/post.php
+https://ebitaku.sakura.ne.jp/php01/forms/post.php
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
